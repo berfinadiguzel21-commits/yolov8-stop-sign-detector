@@ -1,6 +1,6 @@
 # YOLO ile Stop İşareti Tespiti - Yıldız Rover Ödev 3
 
-Bu repository, Yıldız Rover yazılım ekibi görevleri kapsamında hazırlanan gerçek zamanlı "STOP" tabelası tespiti projesine ait eğitim kodlarını, model ağırlıklarını ve test çıktılarını barındırmaktadır.
+Bu repository, gerçek zamanlı "STOP" tabelası tespiti projesine ait eğitim kodlarını, model ağırlıklarını ve test çıktılarını barındırmaktadır.
 
 ## Veri Seti ve Eğitim Süreci
 Modelin eğitimi için Roboflow platformundan temin edilen "STOP Sign" veri seti kullanılmıştır. Modelin eğitim verilerini ezberlemesini (overfitting) önlemek ve genelleme başarısını artırmak amacıyla veri seti `train` ve `valid` olarak ikiye ayrılmıştır.
