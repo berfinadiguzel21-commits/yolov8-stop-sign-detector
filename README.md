@@ -1,4 +1,4 @@
-# YOLO ile Stop İşareti Tespiti - Yıldız Rover Ödev 3
+# YOLO ile Stop İşareti Tespiti 
 
 Bu repository, gerçek zamanlı "STOP" tabelası tespiti projesine ait eğitim kodlarını, model ağırlıklarını ve test çıktılarını barındırmaktadır.
 
